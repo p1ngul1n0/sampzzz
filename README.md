@@ -14,7 +14,7 @@
   <img align="center" alt="Sampzzz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sampzzz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sampzzz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Sampzzz-gif" src="https://raw.githubusercontent.com/sampzzz/sampzzz/main/src/profile-gif.gif">
+  <img align="right" alt="Sampzzz-gif" height="150" width="150" src="https://raw.githubusercontent.com/sampzzz/sampzzz/main/src/profile-gif.gif">
 </div>
 
 ##
